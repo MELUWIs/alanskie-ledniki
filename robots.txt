@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 Disallow: /api/
 
-Sitemap: https://meluwis.github.io/alanskie-ledniki/sitemap.xml
+Sitemap: https://xn------5cdbbjceleg0be4ajcb0bejoeic0fxa1ab16a.xn--p1ai/sitemap.xml
